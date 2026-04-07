@@ -1,0 +1,5 @@
+Input: build dashboard with charts
+Output: Size = M, Time = 2–3 days
+
+Input: fix typo in login page
+Output: Size = XS, Time = 1–2 hours
